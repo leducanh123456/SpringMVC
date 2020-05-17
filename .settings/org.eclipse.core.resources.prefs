@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/laptrinhjavaweb/controller/BuildingController.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/controller/CustomerController.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/repository/impl/BuildingRepository.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/repository/impl/SimpleJpaRepository.java=UTF-8
